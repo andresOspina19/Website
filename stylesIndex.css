@@ -1,0 +1,35 @@
+body {
+  background-color: RGB(15, 64, 32);
+  color: white;
+  outline: none !important;
+  font-family: 'Mulish', sans-serif;
+}
+
+h1 {
+  color: white;
+}
+
+textarea:focus,
+input:focus {
+  outline: none !important;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+a:hover {
+  color: RGB(86, 166, 137) !important;
+  text-decoration: none;
+}
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+.container1 {
+    padding-left: 6em;
+}
+
+.container2 {
+    padding-left: 6em;
+}
